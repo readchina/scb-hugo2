@@ -123,16 +123,6 @@ DefaultContentLanguage           = "en"                    # Default language fo
             description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
-    [languages.es]
-        languageName     = "Español"
-        languageCode     = "es"
-        contentDir       = "content/es"
-        weight           = 1
-        title            = "Introducción"
-        [languages.es.params]
-            description  = "Descripcion del sitio web"
-            # footerText   = ""
-
     [languages.de]
         languageName     = "Deutsch"
         languageCode     = "de"
