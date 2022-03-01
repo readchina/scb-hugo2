@@ -1,0 +1,3 @@
+[submodule "shouchaoben/themes/introduction"]
+	path = shouchaoben/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
