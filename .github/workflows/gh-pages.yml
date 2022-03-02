@@ -41,7 +41,7 @@ jobs:
             ${{ runner.os }}-hugomod-
 
       - name: Build
-        working-directory: shouchaoben
+        # working-directory: shouchaoben
         run: hugo --minify
 
       - name: Deploy
@@ -49,4 +49,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./shouchaoben/public
+          publish_dir: ./public
