@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://readchina.github.io/scb-hugo2/'
 # languageCode = 'en-us'
 title = 'shouchaoben'
 theme = "introduction"
