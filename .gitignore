@@ -22,5 +22,6 @@ go.work
 
 # HUGO
 .hugo_build.lock
-resources/_gen/assets/sass/sass/style.sass_*.json
-resources/_gen/assets/sass/sass/style.sass_*.content
+resources/_gen/assets/sass/scb-hugo2/sass/style.sass_*.json
+resources/_gen/assets/sass/scb-hugo2/sass/style.sass_*.content
+
